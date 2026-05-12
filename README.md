@@ -1,2 +1,14 @@
-# NestFinder
-Developed an intelligent housing discovery platform that helps users find suitable rental properties using personalized recommendations, smart filtering, and location-based search. Integrated AI-driven matching techniques to enhance user experience and simplify property exploration through an interactive web interface.
+---
+title: NestFinder
+emoji: 👀
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.43.2
+app_file: app.py
+pinned: false
+license: mit
+short_description: Bengaluru House Prediction
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
